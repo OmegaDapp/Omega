@@ -98,6 +98,7 @@ We have successfully deployed the Omega DApp on Fleek, a decentralized web hosti
 
 **Live DApp URL:** out of soon
 Visit the live platform to explore the e-identity management and data verification features in action. 
+
 **Docs: <https://docs.omegadapp.xyz>
 
 ## Potential Integrations
