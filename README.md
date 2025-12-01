@@ -96,8 +96,9 @@ Omega DApp is a decentralized application (DApp) built using Next.js and Shadcn,
 ## Live Deployment
 We have successfully deployed the Omega DApp on Fleek, a decentralized web hosting platform.
 
-**Live DApp URL:** <https://omega.xyz>
+**Live DApp URL:** out of soon
 Visit the live platform to explore the e-identity management and data verification features in action. 
+**Docs: <https://docs.omegadapp.xyz>
 
 ## Potential Integrations
 
