@@ -1,9 +1,9 @@
-# Omega DApp - E-Identity and Data Verification
+# ZK ONE - E-Identity and Data Verification
 
 
 ## Project Overview
 
-Omega DApp is a decentralized application (DApp) built using Next.js and Shadcn, designed for secure e-identity management and data verification. This DApp empowers users to securely store, verify, and manage their identity documents and sensitive data in a decentralized, user-controlled environment. Utilizing blockchain technology, Zero-Knowledge (zk) proofs, and Lisk Layer 2 (L2) networks, SecureData ensures enhanced privacy, security, and autonomy over users' data.
+ZK ONE DApp is a decentralized application (DApp) built using Next.js and Shadcn, designed for secure e-identity management and data verification. This DApp empowers users to securely store, verify, and manage their identity documents and sensitive data in a decentralized, user-controlled environment. Utilizing blockchain technology, Zero-Knowledge (zk) proofs, and Lisk Layer 2 (L2) networks, SecureData ensures enhanced privacy, security, and autonomy over users' data.
 
 ## Features
 
@@ -94,7 +94,7 @@ Omega DApp is a decentralized application (DApp) built using Next.js and Shadcn,
 - **Data Verification Contracts:** Smart contracts for verifying identity and sensitive data.
 
 ## Live Deployment
-We have successfully deployed the Omega DApp on Fleek, a decentralized web hosting platform.
+We have successfully deployed the ZK ONE DApp on Fleek, a decentralized web hosting platform.
 
 **Live DApp URL:** out of soon
 Visit the live platform to explore the e-identity management and data verification features in action. 
