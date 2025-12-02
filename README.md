@@ -99,7 +99,7 @@ We have successfully deployed the ZK ONE DApp on Fleek, a decentralized web host
 **Live DApp URL:** out of soon
 Visit the live platform to explore the e-identity management and data verification features in action. 
 
-**Docs: <https://docs.omegadapp.xyz>
+**Docs: <https://docs.zk-one.xyz>
 
 ## Potential Integrations
 
